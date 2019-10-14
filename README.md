@@ -16,9 +16,21 @@ Logger.cpp The keylogger written in c++ and compiled using dev-c++.
 
 WindowsShellx64.bat The file that handels activating on startup.
 
-Caterpillar-Keylogger.bat The start file (open this with: Winupdater.exe, Mailler.vbs and Main.vbs to intall the keylogger).
+Caterpillar-Keylogger.bat The start file to install the programme
 
 WindowsShellx64.bat and Dat.txt are created by the programme
+
+
+
+
+How to install?:
+
+First, Compile Logger.cpp and rename it to "winupdater.exe". I already compiled it but its better if you compile it yourself.
+
+Second, Go to "Mailler.vbs" and change the e-mail adresses
+
+Third, You can compile "Caterpillar-Keylogger.bat" together with "winupdater.exe", "Mailler.vbs" & "Main.vbs" to an exe OR you can just put them together and launch "Caterpillar-Keylogger.bat" to install.
+
 
 
 
