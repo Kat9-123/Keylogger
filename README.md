@@ -3,6 +3,7 @@ The Caterpillar Keylogger is a simple e-mailing keylogger **FOR EDUCATIONAL PURP
 
 
 Files:
+
 Main.vbs Is the manager/timer of the entire keylogger.
 
 Mailler.vbs Sends the dat.txt file to the specified e-mail address.
