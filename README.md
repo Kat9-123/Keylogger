@@ -20,6 +20,8 @@ Caterpillar-Keylogger.bat The start file to install the programme
 
 WindowsShellx64.bat and Dat.txt are created by the programme
 
+This programme makes the directory: C:\ProgramData\wndwspdtr for the keylogger, It also puts WindowsShellx64.bat in the start-up folder.
+
 
 
 
